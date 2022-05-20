@@ -1,0 +1,49 @@
+[2022-05-16 11:19:43.713] [remoteagent] [info] Extension host agent started.
+[2022-05-16 11:19:43.913] [remoteagent] [info] [127.0.0.1][431279ce][ManagementConnection] New connection established.
+[2022-05-16 11:19:44.159] [remoteagent] [info] [127.0.0.1][69c31529][ExtensionHostConnection] New connection established.
+[2022-05-16 11:19:44.210] [remoteagent] [info] [127.0.0.1][69c31529][ExtensionHostConnection] <317> Launched Extension Host Process.
+[2022-05-16 11:20:52.059] [remoteagent] [info] Getting Manifest... naumovs.color-highlight
+[2022-05-16 11:20:52.305] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2022-05-16 11:20:53.593] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /home/wild/.vscode-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-05-16 11:20:54.206] [remoteagent] [info] Extracted extension to /home/wild/.vscode-server/extensions/.633547c9-134b-4bd1-ab90-ab1512208b6a: naumovs.color-highlight
+[2022-05-16 11:20:54.216] [remoteagent] [info] Renamed to /home/wild/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+[2022-05-16 11:20:54.220] [remoteagent] [info] Extracting completed. naumovs.color-highlight
+[2022-05-16 11:20:54.221] [remoteagent] [info] Extension installed successfully: naumovs.color-highlight
+[2022-05-16 11:20:54.533] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-05-16 11:20:54.574] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-05-16 11:20:55.441] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/wild/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-05-16 11:20:56.179] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-05-16 11:20:56.705] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2022-05-16 11:20:57.654] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/wild/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.0
+[2022-05-16 11:20:57.869] [remoteagent] [info] Extracted extension to /home/wild/.vscode-server/extensions/.8cb29553-744e-4eda-a1a0-3a3d30a2e585: christian-kohler.path-intellisense
+[2022-05-16 11:20:57.877] [remoteagent] [info] Renamed to /home/wild/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.0
+[2022-05-16 11:20:57.881] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-05-16 11:20:57.883] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-05-16 11:20:58.201] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-05-16 11:20:58.249] [remoteagent] [info] Extracted extension to /home/wild/.vscode-server/extensions/.69e11237-b16a-4ce1-94ec-ed6fffe13bdb: ritwickdey.liveserver
+[2022-05-16 11:20:58.261] [remoteagent] [info] Renamed to /home/wild/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-05-16 11:20:58.267] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-05-16 11:20:58.268] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-05-16 11:20:58.474] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-05-16 11:21:02.149] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/wild/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-05-16 11:21:03.170] [remoteagent] [info] Extracted extension to /home/wild/.vscode-server/extensions/.ca9f9a22-1f3d-4e32-9708-c8b9896c73c8: esbenp.prettier-vscode
+[2022-05-16 11:21:03.186] [remoteagent] [info] Renamed to /home/wild/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0
+[2022-05-16 11:21:03.196] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-05-16 11:21:03.198] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-05-16 11:34:15.957] [remoteagent] [info] [127.0.0.1][a03a1172][ManagementConnection] New connection established.
+[2022-05-16 11:34:16.611] [remoteagent] [info] [127.0.0.1][161198f7][ExtensionHostConnection] New connection established.
+[2022-05-16 11:34:16.623] [remoteagent] [info] [127.0.0.1][161198f7][ExtensionHostConnection] <466> Launched Extension Host Process.
+[2022-05-16 11:36:19.608] [remoteagent] [info] [127.0.0.1][161198f7][ExtensionHostConnection] <466> [0mGET /favicon.ico [33m404[0m 12.278 ms - 150[0m
+
+[2022-05-16 11:53:10.787] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Google/Chrome Dev/User Data/Default/blob_storage/10c1a8b1-09ee-4caf-8f8f-27a70ced6209' failed: No such file or directory (EUNKNOWN) (path: /mnt)
+[2022-05-16 11:53:10.788] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Google/Chrome Dev/User Data/Default/blob_storage/10c1a8b1-09ee-4caf-8f8f-27a70ced6209' failed: No such file or directory
+[2022-05-16 12:24:37.311] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/88000165' failed: No such file or directory (EUNKNOWN) (path: /mnt)
+[2022-05-16 12:24:37.312] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/88000165' failed: No such file or directory
+[2022-05-16 12:42:53.777] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/wild)
+[2022-05-16 12:42:53.778] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-05-16 12:51:22.745] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-05-16 12:52:02.545] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9dfe7d60-94ed-48ad-bd38-2d6c7b5df4d6}' failed: No such file or directory (EUNKNOWN) (path: /mnt)
+[2022-05-16 12:52:02.545] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/mnt/c/Users/Sara/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9dfe7d60-94ed-48ad-bd38-2d6c7b5df4d6}' failed: No such file or directory
+[2022-05-16 12:52:56.055] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-05-16 12:52:56.190] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/wild)
+[2022-05-16 12:52:56.190] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory

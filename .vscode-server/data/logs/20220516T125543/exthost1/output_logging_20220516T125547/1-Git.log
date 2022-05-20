@@ -1,0 +1,59 @@
+[2022-05-16T17:55:48.858Z] Validating found git in: git
+[2022-05-16T17:55:49.421Z] Using git 2.25.1 from git
+[2022-05-16T17:55:52.509Z] > git rev-parse --show-toplevel [2985ms]
+[2022-05-16T17:55:52.509Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:52.612Z] > git rev-parse --show-toplevel [76ms]
+[2022-05-16T17:55:52.612Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:52.696Z] > git rev-parse --show-toplevel [27ms]
+[2022-05-16T17:55:52.696Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:52.755Z] > git rev-parse --show-toplevel [17ms]
+[2022-05-16T17:55:52.755Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:53.522Z] > git rev-parse --show-toplevel [703ms]
+[2022-05-16T17:55:53.522Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:53.728Z] > git rev-parse --show-toplevel [162ms]
+[2022-05-16T17:55:53.728Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:53.918Z] > git rev-parse --show-toplevel [143ms]
+[2022-05-16T17:55:53.918Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:54.080Z] > git rev-parse --show-toplevel [117ms]
+[2022-05-16T17:55:54.080Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:54.158Z] > git rev-parse --show-toplevel [37ms]
+[2022-05-16T17:55:54.158Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T17:55:54.247Z] > git rev-parse --show-toplevel [35ms]
+[2022-05-16T17:55:54.247Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T18:09:31.252Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-16T18:09:31.256Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-05-16T18:09:31.263Z] Open repository: /home/wild/.nvm
+[2022-05-16T18:09:31.272Z] > git status -z -uall [2ms]
+[2022-05-16T18:09:31.278Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-16T18:09:31.283Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-05-16T18:09:31.294Z] > git remote --verbose [2ms]
+[2022-05-16T18:09:31.294Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-05-16T18:09:31.303Z] > git config --get commit.template [2ms]
+[2022-05-16T18:09:31.801Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-16T18:14:37.190Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-16T18:14:37.195Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-05-16T18:14:37.203Z] Open repository: /home/wild/test
+[2022-05-16T18:14:37.213Z] > git status -z -uall [4ms]
+[2022-05-16T18:14:37.223Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-16T18:14:37.229Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-05-16T18:14:37.242Z] > git remote --verbose [1ms]
+[2022-05-16T18:14:37.242Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-05-16T18:14:37.254Z] > git config --get commit.template [1ms]
+[2022-05-16T18:14:37.831Z] > git check-ignore -v -z --stdin [6ms]
+[2022-05-16T18:14:37.832Z] > git check-ignore -v -z --stdin [2ms]
+[2022-05-16T18:16:46.473Z] > git status -z -uall [11ms]
+[2022-05-16T18:16:46.480Z] > git status -z -uall [10ms]
+[2022-05-16T18:16:46.486Z] > git symbolic-ref --short HEAD [6ms]
+[2022-05-16T18:16:46.486Z] fatal: ref HEAD is not a symbolic ref
+[2022-05-16T18:16:46.495Z] > git rev-parse HEAD [1ms]
+[2022-05-16T18:16:46.510Z] > git remote --verbose [3ms]
+[2022-05-16T18:16:46.510Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-05-16T18:16:46.524Z] > git config --get commit.template [3ms]
+[2022-05-16T18:16:47.112Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-16T18:16:51.534Z] > git status -z -uall [4ms]
+[2022-05-16T18:16:51.540Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-16T18:16:51.540Z] fatal: ref HEAD is not a symbolic ref
+[2022-05-16T18:16:51.544Z] > git rev-parse HEAD [1ms]
+[2022-05-16T18:16:51.553Z] > git remote --verbose [1ms]
+[2022-05-16T18:16:51.553Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-05-16T18:16:51.559Z] > git config --get commit.template [1ms]

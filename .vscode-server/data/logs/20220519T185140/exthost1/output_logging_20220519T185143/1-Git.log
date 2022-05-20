@@ -1,0 +1,31 @@
+[2022-05-19T23:51:44.540Z] Validating found git in: git
+[2022-05-19T23:51:44.665Z] Using git 2.25.1 from git
+[2022-05-19T23:51:45.511Z] > git rev-parse --show-toplevel [823ms]
+[2022-05-19T23:51:45.511Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.677Z] > git rev-parse --show-toplevel [152ms]
+[2022-05-19T23:51:45.677Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.740Z] > git rev-parse --show-toplevel [54ms]
+[2022-05-19T23:51:45.740Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.789Z] > git rev-parse --show-toplevel [35ms]
+[2022-05-19T23:51:45.789Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.801Z] > git rev-parse --show-toplevel [3ms]
+[2022-05-19T23:51:45.801Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.823Z] > git rev-parse --show-toplevel [11ms]
+[2022-05-19T23:51:45.856Z] > git rev-parse --git-dir --git-common-dir [18ms]
+[2022-05-19T23:51:45.870Z] Open repository: /home/wild/.nvm
+[2022-05-19T23:51:45.908Z] > git rev-parse --show-toplevel [10ms]
+[2022-05-19T23:51:45.908Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.921Z] > git status -z -uall [33ms]
+[2022-05-19T23:51:45.934Z] > git rev-parse --show-toplevel [17ms]
+[2022-05-19T23:51:45.934Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:45.951Z] > git symbolic-ref --short HEAD [21ms]
+[2022-05-19T23:51:45.951Z] fatal: ref HEAD is not a symbolic ref
+[2022-05-19T23:51:45.972Z] > git rev-parse --show-toplevel [26ms]
+[2022-05-19T23:51:45.972Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:46.007Z] > git rev-parse --show-toplevel [19ms]
+[2022-05-19T23:51:46.007Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-19T23:51:46.008Z] > git rev-parse HEAD [46ms]
+[2022-05-19T23:51:46.032Z] > git remote --verbose [4ms]
+[2022-05-19T23:51:46.033Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-05-19T23:51:46.049Z] > git config --get commit.template [2ms]
+[2022-05-19T23:51:46.477Z] > git check-ignore -v -z --stdin [2ms]

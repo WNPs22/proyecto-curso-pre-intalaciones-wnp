@@ -1,0 +1,18 @@
+[2022-05-16T16:19:57.263Z] Validating found git in: git
+[2022-05-16T16:19:57.317Z] Using git 2.25.1 from git
+[2022-05-16T16:19:57.339Z] > git rev-parse --show-toplevel [11ms]
+[2022-05-16T16:19:57.339Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T16:19:57.361Z] > git rev-parse --show-toplevel [11ms]
+[2022-05-16T16:19:57.361Z] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-16T16:19:57.388Z] > git rev-parse --show-toplevel [22ms]
+[2022-05-16T16:19:57.388Z] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-16T16:20:54.374Z] > git rev-parse --show-toplevel [6ms]
+[2022-05-16T16:20:54.375Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T16:20:58.114Z] > git rev-parse --show-toplevel [5ms]
+[2022-05-16T16:20:58.114Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T16:20:58.521Z] > git rev-parse --show-toplevel [10ms]
+[2022-05-16T16:20:58.521Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-16T16:21:03.445Z] > git rev-parse --show-toplevel [4ms]
+[2022-05-16T16:21:03.445Z] fatal: not a git repository (or any of the parent directories): .git

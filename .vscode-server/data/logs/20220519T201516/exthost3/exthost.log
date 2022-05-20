@@ -1,0 +1,29 @@
+[2022-05-19 20:20:51.489] [exthost] [info] Extension host with pid 6807 started
+[2022-05-19 20:20:51.533] [exthost] [info] Lock '/home/wild/.vscode-server/data/User/workspaceStorage/b20b298af209e5017a1f0be3f1fdc903/vscode.lock': Lock acquired.
+[2022-05-19 20:20:51.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-05-19 20:20:51.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-19 20:20:51.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-19 20:20:51.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-19 20:20:52.019] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-05-19 20:20:52.042] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-19 20:20:52.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-19 20:20:52.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-19 20:20:52.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-19 20:20:52.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-19 20:20:52.502] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-19 20:20:52.733] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-19 20:20:52.944] [exthost] [info] Eager extensions activated
+[2022-05-19 20:37:15.909] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:37:23.868] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:38:39.610] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:38:48.651] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:38:53.879] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:38:59.189] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:06.047] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:12.700] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:19.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:25.409] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:32.049] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:37.923] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:47.605] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8935
+[2022-05-19 20:39:55.127] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8936
